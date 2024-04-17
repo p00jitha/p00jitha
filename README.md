@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DASARI PUJITHA
+- 👋 Hi, I’m DASARI PUJITHA,a MERN stack enthusiast!
 - 👀 I’m interested in building innovative web applications and exploring new technologies.
 - 🌱 I’m currently learning advanced React patterns and efficient database design.
 - 💞️ I’m looking to collaborate on exciting MERN stack projects that push the boundaries of web development.
