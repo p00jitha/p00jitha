@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p00jitha&label=Profile%20views&color=0e75b6&style=flat" alt="p00jitha" /> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to contribute to **Open-source projects**
 
